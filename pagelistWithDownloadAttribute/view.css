@@ -1,0 +1,25 @@
+/*************************
+-- Styles for page list --
+**************************/
+.ccm-block-page-list-title{
+    padding-bottom: 15px;
+    
+}
+.ccm-block-page-list-title a{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Dosis', sans-serif;
+    color: #4d4d4d;
+    transition-duration: 1s;
+}
+.ccm-block-page-list-page-entry-read-more{
+    padding-top: 10px;
+}
+.ccm-block-page-list-page-entry{
+    margin-bottom: 2em;
+}
+@media screen and (max-width: 1024px){
+    .blog-list{
+        margin-top: 20px;
+    }
+}
